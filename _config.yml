@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test"
+title                    : "Rey Rizki's Experiences"
 title_separator          : "-"
-subtitle                 : "Come on"
+subtitle                 : "Just a story"
 name                     : "Rey Rizki"
 description              : "Kerjaan Si Rey"
 url                      : "https://reyrizki.github.io"

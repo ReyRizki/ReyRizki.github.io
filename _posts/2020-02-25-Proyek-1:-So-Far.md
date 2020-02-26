@@ -7,12 +7,12 @@ Tiap pagi, belajar ngetik cepet dulu. Gw sih udah biasa wkwkwk, dah lama kali be
 
 Pas pertemuan kedua, gw belajar Microsoft Excel, Microsoft Word, sama Microsoft PowerPoint. Di Microsoft Excel itu, tugas pertamanya bikin daftar nilai mahasiswa. Rada ribet sih, untung bisa beres. Terus abis istriahat disuruh bikin pola bilangan gitu tapi di Microsoft Excel. Beres? Wo iya jelas. Tapi gak tepat waktu aja wkwkwk. Terus abis itu bikin sertifikat di Microsoft Word, bikin forwarding di e-mail, sama yang terakhir ada tugas kelompok bikin PPT.
 
-Yang paling baru, pertemuan ketiga nih. Kayak biasa lah ya pagi-pagi latihan ngetik dulu. Pertemuan ketiga ini lebih fokusnya ke git sih intinya mah. Kayak pertama bikin aku GitHub dulu, terus 
+Yang paling baru, pertemuan ketiga nih. Kayak biasa lah ya pagi-pagi latihan ngetik dulu. Pertemuan ketiga ini lebih fokusnya ke git sih intinya mah. Kayak pertama bikin akun GitHub dulu, terus abis itu nyobain perintah-perintah git. Pas abis dzuhur, baru kolaborasi bareng sama kelompok. Oh iya, dapet tugas juga buat dibawa pulang wkwkw.
 
 # Keluh kesah
-Dolor voluptate pariatur aute laborum ex do mollit ea cillum ex magna irure. Elit ullamco cillum cillum fugiat anim nisi. Et non incididunt tempor tempor aliquip. Proident culpa dolor minim enim deserunt consectetur minim exercitation in irure consequat magna.
+Keluhan dari gw sih paling keseringan dikasih tugas yang rada berat tapi waktunya cuma bentaran doang. Gw gak biasa sih kerja kayak gitu wkwkwk. Yah, akhirnya beberapa tugas dikumpulinnya telat.
 
 # Tips
-Veniam culpa do sunt reprehenderit elit cillum sit ad mollit. Sint consectetur excepteur nostrud id tempor amet eu officia quis adipisicing pariatur commodo exercitation qui. Do ullamco exercitation sunt nisi adipisicing sint mollit ex amet nisi non elit incididunt. Fugiat tempor dolore proident dolor velit commodo deserunt consectetur quis officia eiusmod nulla mollit. In fugiat ad dolore enim ullamco anim voluptate duis laboris culpa.
+Tips dari gw sih paling cuma kerjain aja tugasnya yang bener. Terus kalo udah dikasih instruksinya, jangan nunda-nunda buat ngerjain tugas.
 
-Sekian dan terima kasih
+Yak, paling gitu doang. Iya, gitu doang, da baru 3 pertemuan wkwkwk. See you next time!
